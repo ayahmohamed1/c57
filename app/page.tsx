@@ -4,7 +4,7 @@ import type { Metadata } from 'next'
 
 export const metadata: Metadata = {
   title: 'Happy Birthday hamoudy! 🎂',
-  description: 'A special birthday message for Ahmed',
+  description: 'A special birthday message for hamoudy',
 }
 
 export default function Home() {
